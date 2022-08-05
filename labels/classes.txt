@@ -1,0 +1,9 @@
+mask,nomask
+watch,nowatch
+hat,no-hat
+no-hat
+nomask
+nowatch
+hat
+mask
+watch
