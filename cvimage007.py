@@ -1,7 +1,7 @@
 import cv2
 from time import strftime
 import os
-labels = ['watch','nowatch']
+labels = ['hat','nohat']
 cap = cv2.VideoCapture(0)
 
 while cap.isOpened():
