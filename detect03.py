@@ -6,7 +6,7 @@ import time
 import pafy
 
 
-model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5/runs/train/exp5/weights/best.pt',force_reload=True)
+model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5/runs/train/exp10/weights/best.pt')
 # url = "https://www.youtube.com/watch?v=wo-78u7P6Fk&t=7s"
 # url = "https://www.youtube.com/watch?v=CmWBk-27B3g"
 # live = pafy.new(url)
